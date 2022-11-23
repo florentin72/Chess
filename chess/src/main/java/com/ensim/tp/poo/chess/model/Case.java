@@ -1,4 +1,4 @@
-package com.ensim.tp.poo.chess;
+package com.ensim.tp.poo.chess.model;
 
 public class Case {
 

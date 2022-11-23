@@ -1,4 +1,6 @@
-package com.ensim.tp.poo.chess;
+package com.ensim.tp.poo.chess.model;
+
+import com.ensim.tp.poo.chess.Pieces;
 
 import java.util.ArrayList;
 import java.util.List;
