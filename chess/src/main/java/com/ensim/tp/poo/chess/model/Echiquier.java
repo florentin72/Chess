@@ -5,7 +5,7 @@ import com.ensim.tp.poo.chess.Pieces;
 import java.util.ArrayList;
 import java.util.List;
 
-class Echiquier   {
+public class Echiquier   {
     private static Echiquier echiquier ;
     private List<Case> listCase;
     private List<Pieces> listPieces;
